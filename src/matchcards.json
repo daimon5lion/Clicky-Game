@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/images/baiyang.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./assets/images/chunv.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/jinniu.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/juxie.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/shanyang.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/shizi.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/shuangyu.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/shuangzi.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/shuiping.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/tianping.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/tianxie.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/renma.jpg",
+    "clicked": false
+  }
+]
