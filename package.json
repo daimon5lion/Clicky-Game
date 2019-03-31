@@ -6,10 +6,13 @@
   "dependencies": {
     "gh-pages": "^1.2.0",
     "install": "^0.12.2",
+    "lodash": "^4.17.11",
     "npm": "^6.9.0",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17"
+    "react-dev-utils": "^8.0.0",
+    "react-dom": "^16.8.6",
+    "react-scripts": "1.0.17",
+    "webpack-dev-server": "^3.2.1"
   },
   "scripts": {
     "predeploy": "npm run build",
